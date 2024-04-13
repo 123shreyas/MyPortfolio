@@ -1,7 +1,7 @@
 Welcome to Myportfolio
 
 Author:Shreyas Mahadev Magdum
-Languages:Bootstrap,php,mysql
-software:Vscode,Xammp
+Languages:Bootstrap,php
+software:Vscode
 
 Domain Name:shreyasmagdum13.free.nf
